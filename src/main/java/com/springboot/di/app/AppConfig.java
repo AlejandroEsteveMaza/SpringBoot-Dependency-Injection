@@ -36,6 +36,7 @@ public class AppConfig {
 		ItemFactura linea2 = new ItemFactura(producto2, 4);
 
 		return Arrays.asList(linea1, linea2);
+		
 	}
 
 }
